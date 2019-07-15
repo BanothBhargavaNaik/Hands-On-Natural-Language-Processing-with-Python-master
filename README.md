@@ -7,6 +7,6 @@ For cloning you must have "Git" installed in your system.
 
 To clone just type the following:
 
-git clone https://github.com/bijoyandas/Hands-On-Natural-Language-Processing-with-Python.git
+git clonehttps://github.com/yoda-prince/Hands-On-Natural-Language-Processing-with-Python-master
 
 If you find any mistakes or you can't figure out something, raise a question. I will get back to you asap.
